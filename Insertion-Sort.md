@@ -26,6 +26,7 @@ Adım 5 (i=5, key=6):
 # Big-O Gösterimi (Insertion Sort)
 
 | Durum | Big-O | Açıklama |
+|-------|-------|----------|
 | Best Case | O(n) | Dizi zaten sıralıysa, her eleman sadece 1 kez karşılaştırılır |
 | Average Case | O(n²) | Elemanlar rastgele sıradaysa |
 | Worst Case | O(n²) | Dizi ters sıralıysa (büyükten küçüğe), her eleman baştan sona kaydırılır |
