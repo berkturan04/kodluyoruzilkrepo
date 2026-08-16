@@ -30,13 +30,3 @@
 2:
 * 7 (sola) $\rightarrow$ 5 (sola) $\rightarrow$ 1 (sağa, yani 3) $\rightarrow$ 3 (sola).
 * 3'ün soluna eklenir.
-
-        7
-      /   \
-     5     8
-    / \     \
-   1   6     9
-  / \     
- 0   3    
-    / \   
-   2   4
